@@ -1,7 +1,7 @@
 {
     "name": "wecodedoctor/codedoctorflashtheme",
     "description": "Wordpress custom theme development boilerplate from CodeDoctor team.",
-    "type": "library",
+    "type": "project",
     "license": "Apache-2.0",
     "authors": [
         {
