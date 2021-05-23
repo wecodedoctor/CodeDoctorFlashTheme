@@ -2,6 +2,7 @@
     "name": "wecodedoctor/codedoctorflashtheme",
     "description": "Wordpress custom theme development boilerplate from CodeDoctor team.",
     "type": "project",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Niladri Shekhar Mondal",
@@ -10,6 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
+        "php": "^7.4",
         "htmlburger/carbon-fields": "dev-master",
         "symfony/serializer": "5.x-dev",
         "symfony/string": "5.x-dev",
