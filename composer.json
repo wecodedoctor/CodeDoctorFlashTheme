@@ -1,0 +1,25 @@
+{
+    "name": "codedoctor/nursing",
+    "description": "A custom wordpress template for codedoctor client.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Niladri Shekhar Mondal",
+            "email": "nldrmondal35@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "htmlburger/carbon-fields": "dev-master",
+        "symfony/serializer": "5.x-dev",
+        "symfony/string": "5.x-dev",
+        "doctrine/collections": "2.0.x-dev",
+        "tgmpa/tgm-plugin-activation": "dev-master",
+        "wecodedoctor/codedoctorflash": "dev-main"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodedoctorWordpressTheme\\": "Theme/"
+        }
+    }
+}
