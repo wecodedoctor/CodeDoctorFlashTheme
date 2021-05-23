@@ -1,6 +1,6 @@
 {
-    "name": "codedoctor/nursing",
-    "description": "A custom wordpress template for codedoctor client.",
+    "name": "wecodedoctor/codedoctorflashtheme",
+    "description": "Wordpress custom theme development boilerplate from CodeDoctor team.",
     "type": "project",
     "authors": [
         {
